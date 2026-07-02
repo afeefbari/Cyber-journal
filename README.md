@@ -1,13 +1,13 @@
 # Cyber Journal
 
-Hi, Welcome! 👋
+Hi Everyone! 👋
 
-This repository documents my journey as a cybersecurity student and aspiring security engineer. It serves as a central place for my learning, including internship tasks, lab experiments, notes, projects, and new findings basically .
+I'm Afeef, a cybersecurity student and an aspiring security engineer. This repository documents my journey for my learning, including internship tasks, lab experiments, notes, projects, and new findings basically .
 
 ## Objectives
 
 - Document what I learn every week
-- Reinforce concepts through hands-on practice
+- Reinforce concepts through hands-on projects
 - Build a public portfolio of technical work
 - Track my progress over time
 - Share knowledge with others in the cybersecurity community
@@ -15,9 +15,9 @@ This repository documents my journey as a cybersecurity student and aspiring sec
 ## Repository Structure
 
 - 📁 Internships
-- 🧪 Home Labs
+- 🧪 Labs
 - 💻 Projects
-- 📝 Technical Notes
+- 📝 Notes
 - ⚙️ Scripts
 - 📚 Resources
 - 📄 Articles & Write-ups
